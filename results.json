@@ -4,9 +4,9 @@
   },
   "test_lm": {
     "english_2_gram_length": 748,
-    "english_3_gram_length": 8472,
-    "french_3_gram_length": 8504,
-    "spanish_3_gram_length": 8743
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
   },
   "test_eval": {
     "english_on_english": 694.32,
@@ -16,7 +16,7 @@
   "test_match": "AttributeError(\"'NoneType' object has no attribute 'shape'\")",
   "test_generate": {
     "english_2_gram": "I amatewhapps alpe @pe u",
-    "english_3_gram": "I amattessf9 @ToTm\u05d42",
+    "english_3_gram": "I amattessf9 @ToTm\u05d4",
     "english_4_gram": "I Love he'5",
     "spanish_2_gram": "Soy acurobue htr delo L",
     "spanish_3_gram": "Soy murs #ficanza pres.",
