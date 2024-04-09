@@ -1,26 +1,26 @@
 {
   "test_preprocess": {
-    "vocab_length": 1802
+    "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 723,
-    "english_3_gram_length": 7930,
-    "french_3_gram_length": 7951,
-    "spanish_3_gram_length": 8002
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8472,
+    "french_3_gram_length": 8504,
+    "spanish_3_gram_length": 8743
   },
   "test_eval": {
-    "english_on_english": 4.57,
-    "english_on_french": 5.05,
-    "english_on_spanish": 5.19
+    "english_on_english": 694.32,
+    "english_on_french": 695.39,
+    "english_on_spanish": 695.41
   },
-  "test_match": "KeyError('source')",
+  "test_match": "AttributeError(\"'NoneType' object has no attribute 'shape'\")",
   "test_generate": {
-    "english_2_gram": "I amatopo BSe alk heen u",
-    "english_3_gram": "I amattessf;2",
+    "english_2_gram": "I amatewhapps alpe @pe u",
+    "english_3_gram": "I amattessf9 @ToTm\u05d42",
     "english_4_gram": "I Love he'5",
-    "spanish_2_gram": "Soy acuro..co lve @Binu",
-    "spanish_3_gram": "Soy murs #ficanza pres:",
-    "french_2_gram": "Je suis hoprid\u00e9e lapantra A",
-    "french_3_gram": "Je suis aps://t.co/gOXoK-"
+    "spanish_2_gram": "Soy acurobue htr delo L",
+    "spanish_3_gram": "Soy murs #ficanza pres.",
+    "french_2_gram": "Je suis hoprivr des, @SH\u05d4-O",
+    "french_3_gram": "Je suis aps://t.co/gOXoJ,"
   }
 }
