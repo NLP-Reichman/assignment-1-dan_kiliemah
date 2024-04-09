@@ -1,0 +1,26 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1802
+  },
+  "test_lm": {
+    "english_2_gram_length": 723,
+    "english_3_gram_length": 7930,
+    "french_3_gram_length": 7951,
+    "spanish_3_gram_length": 8002
+  },
+  "test_eval": {
+    "english_on_english": 4.57,
+    "english_on_french": 5.05,
+    "english_on_spanish": 5.19
+  },
+  "test_match": "KeyError('source')",
+  "test_generate": {
+    "english_2_gram": "I amatopo BSe alk heen u",
+    "english_3_gram": "I amattessf;2",
+    "english_4_gram": "I Love he'5",
+    "spanish_2_gram": "Soy acuro..co lve @Binu",
+    "spanish_3_gram": "Soy murs #ficanza pres:",
+    "french_2_gram": "Je suis hoprid\u00e9e lapantra A",
+    "french_3_gram": "Je suis aps://t.co/gOXoK-"
+  }
+}
