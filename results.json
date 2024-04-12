@@ -9,18 +9,26 @@
     "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "english_on_english": 694.32,
-    "english_on_french": 695.39,
-    "english_on_spanish": 695.41
+    "english_on_english": 9.31,
+    "english_on_french": 27.83,
+    "english_on_spanish": 31.36
   },
-  "test_match": "AttributeError(\"'NoneType' object has no attribute 'shape'\")",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_1": 15.265293546075368,
+    "tl_tl_1": 20.53369539023047,
+    "tl_nl_4": 31.604135970639064
+  },
   "test_generate": {
-    "english_2_gram": "I amatewhapps alpe @pe u",
-    "english_3_gram": "I amattessf9 @ToTm\u05d4",
-    "english_4_gram": "I Love he'5",
+    "english_2_gram": "I amatodo BURT ifongriny",
+    "english_3_gram": "I amattendoget spor Shos",
+    "english_4_gram": "I Love hellet's any this #",
     "spanish_2_gram": "Soy acurobue htr delo L",
-    "spanish_3_gram": "Soy murs #ficanza pres.",
-    "french_2_gram": "Je suis hoprivr des, @SH\u05d4-O",
-    "french_3_gram": "Je suis aps://t.co/gOXoJ,"
+    "spanish_3_gram": "Soy ma\u00f1a ra de ba pres:",
+    "french_2_gram": "Je suis hoprid\u00e9e lapantra F",
+    "french_3_gram": "Je suis altrobje lez len pl"
   }
 }
