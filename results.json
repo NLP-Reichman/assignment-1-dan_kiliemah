@@ -4,25 +4,23 @@
   },
   "test_lm": {
     "english_2_gram_length": 748,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "english_on_english": 9.31,
-    "english_on_french": 27.83,
-    "english_on_spanish": 31.36
+    "en_en": 19.798986184464663,
+    "en_fr": 25.672152436626323,
+    "en_tl": 37.60875489793603,
+    "en_nl": 28.83260471975174
   },
   "test_match": {
-    "df_shape": [
-      256,
-      4
-    ],
-    "en_en_1": 15.265293546075368,
-    "tl_tl_1": 20.53369539023047,
-    "tl_nl_4": 31.604135970639064
+    "en_en_3": 9.298934639189977,
+    "en_tl_3": 37.54797591614014,
+    "en_nl_3": 30.592952685303455
   },
   "test_generate": {
+    "english_1_gram": "I",
     "english_2_gram": "I amatodo BURT ifongriny",
     "english_3_gram": "I amattendoget spor Shos",
     "english_4_gram": "I Love hellet's any this #",
